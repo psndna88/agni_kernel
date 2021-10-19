@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Redmi Note 5 Pro",
+    "code_name": "whyred",
+    "oem": "Xiaomi",
+    "resources": [
+      {
+        "type": "kernel",
+        "title": "v6.9",
+        "size": "14.5MB",
+        "url": "dasdasd",
+        "md5": "8277e0910d750195b448797616e091ad",
+        "changelogs": [
+          "Added Z-Engine",
+          "Improved thermal"
+        ]
+      },
+      {
+        "type": "firmware",
+        "title": "Super first cds",
+        "size": "420.69MB",
+        "url": "",
+        "md5": "",
+        "changelogs": [
+          "Added Z-Engine",
+          "Improved thermal"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Redmi Note 7 Pro",
+    "code_name": "maira",
+    "oem": "Xiaomi",
+    "resources": [
+      {
+        "type": "kernel",
+        "title": "v6.9",
+        "size": "14.5MB",
+        "url": "",
+        "md5": "",
+        "changelogs": [
+          "Added Z-Engine",
+          "Improved thermal"
+        ]
+      }
+    ]
+  }
+]
