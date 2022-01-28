@@ -1,47 +1,136 @@
 [
   {
-    "name": "Redmi Note 5 Pro",
-    "code_name": "whyred",
+    "name": "Redmi Note 9 Snapdragon Series + Poco M2 Pro [Miatoll]",
+    "code_name": "curtana,joyeuse,excalibur,gram",
     "oem": "Xiaomi",
     "resources": [
       {
         "type": "kernel",
-        "title": "v6.9",
-        "size": "14.5MB",
-        "url": "dasdasd",
-        "md5": "8277e0910d750195b448797616e091ad",
+        "title": "v12.5",
+        "size": "18-20MB",
+        "url": "https://store.kde.org/p/1450364/",
+        "md5": "MIUI R, MIUI Q, AOSP RS, AOSP Q, AOSP R0, AOSP RS-permissive, AOSP RS-nethunter",
         "changelogs": [
-          "Added Z-Engine",
-          "Improved thermal"
-        ]
-      },
-      {
-        "type": "firmware",
-        "title": "Super first cds",
-        "size": "420.69MB",
-        "url": "",
-        "md5": "",
-        "changelogs": [
-          "Added Z-Engine",
-          "Improved thermal"
+          "Merge kernel 4.14.263",
+          "Merge CAF LA.UM.9.1.r1-11500.02-SMxxx0.QSSI12.0 (MIUI R/AOSP RS)",
+          "mm: hardwire force page_cluster = 1 for zram",
+          "nfc: nq-nci: disable nqx_suspend & nqx_resume",
+          "Merge MIUI specific Xiaomi's hidden code from evergo-r-oss (MIUI R) *Zram Memory extension * f2fs"
         ]
       }
     ]
   },
   {
-    "name": "Redmi Note 7 Pro",
-    "code_name": "maira",
+    "name": "Redmi Note 5 Pro/AI",
+    "code_name": "whyred",
     "oem": "Xiaomi",
     "resources": [
       {
         "type": "kernel",
-        "title": "v6.9",
-        "size": "14.5MB",
-        "url": "",
-        "md5": "",
+        "title": "v16.0",
+        "size": "45MB",
+        "url": "https://www.pling.com/p/1461562/",
+        "md5": "e1efcd2939f485015b807c25d7765f08",
         "changelogs": [
-          "Added Z-Engine",
-          "Improved thermal"
+          "Merge kernel 4.4.299, 4.4.300",
+          "mm: hardwire force page_cluster = 1 for zram",
+          "f2fs: Force nobarrier fsync mode",
+          "msm: wlan: update db.txt fixup some countries reg info",
+          "Revert dts: remove rcupdate from bootargs"
+        ]
+      },
+      {
+        "type": "AGNi Firmware (whyred)",
+        "title": "v8.3",
+        "size": "124MB",
+        "url": "https://store.kde.org/p/1411237/",
+        "md5": "7AB8ADA48CBD6EB4523A3FB4BD44690C",
+        "changelogs": [
+          "rebase on MIUI 12 global stable 12.0.2.0"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Redmi Note 6 Pro",
+    "code_name": "tulip",
+    "oem": "Xiaomi",
+    "resources": [
+      {
+        "type": "kernel",
+        "title": "v16.0",
+        "size": "45MB",
+        "url": "https://store.kde.org/p/1461562/",
+        "md5": "c4f0a14ffe1b1a24f7fdea5a3a1c773b",
+        "changelogs": [
+          "Merge kernel 4.4.299, 4.4.300",
+          "mm: hardwire force page_cluster = 1 for zram",
+          "f2fs: Force nobarrier fsync mode",
+          "msm: wlan: update db.txt fixup some countries reg info",
+          "Revert dts: remove rcupdate from bootargs"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Redmi Note 7",
+    "code_name": "lavender",
+    "oem": "Xiaomi",
+    "resources": [
+      {
+        "type": "kernel",
+        "title": "v16.0",
+        "size": "45MB",
+        "url": "https://store.kde.org/p/1461562/",
+        "md5": "66332ad5bb8ca14737b722eab7a28eee",
+        "changelogs": [
+          "Merge kernel 4.4.299, 4.4.300",
+          "mm: hardwire force page_cluster = 1 for zram",
+          "f2fs: Force nobarrier fsync mode",
+          "msm: wlan: update db.txt fixup some countries reg info",
+          "Revert dts: remove rcupdate from bootargs"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "MI A2",
+    "code_name": "jasmine_sprout",
+    "oem": "Xiaomi",
+    "resources": [
+      {
+        "type": "kernel",
+        "title": "v16.0",
+        "size": "45MB",
+        "url": "https://store.kde.org/p/1461562/",
+        "md5": "75de6fb707fd8171200fa2aa5330ca4f",
+        "changelogs": [
+          "Merge kernel 4.4.299, 4.4.300",
+          "mm: hardwire force page_cluster = 1 for zram",
+          "f2fs: Force nobarrier fsync mode",
+          "msm: wlan: update db.txt fixup some countries reg info",
+          "Revert dts: remove rcupdate from bootargs"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "MI 6x",
+    "code_name": "wayne",
+    "oem": "Xiaomi",
+    "resources": [
+      {
+        "type": "kernel",
+        "title": "v16.0",
+        "size": "45MB",
+        "url": "https://store.kde.org/p/1461562/",
+        "md5": "e4e140c054124ffd4581889f61205720",
+        "changelogs": [
+          "Merge kernel 4.4.299, 4.4.300",
+          "mm: hardwire force page_cluster = 1 for zram",
+          "f2fs: Force nobarrier fsync mode",
+          "msm: wlan: update db.txt fixup some countries reg info",
+          "Revert dts: remove rcupdate from bootargs"
         ]
       }
     ]

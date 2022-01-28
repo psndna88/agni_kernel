@@ -1,6 +1,6 @@
 {
-  "started": 2000,
-  "ends": 2021,
+  "started": 2021,
+  "ends": 2022,
   "improvements": [
     {
       "title": "General",
@@ -112,16 +112,28 @@
   ],
   "support_groups": [
     {
-      "name": "Whyred",
-      "url": ""
+      "name": "Redmi Note 9 Snapdragon Series(curtana,joyeuse,excalibur) + Poco M2 Pro(gram) [Miatoll]",
+      "url": "https://t.me/agniMIATOLLgroup"
     },
     {
-      "name": "Miatoll",
-      "url": ""
+      "name": "Redmi Note 5 Pro (whyred)",
+      "url": "https://t.me/agnikernelwhyredchannel"
     },
     {
-      "name": "Tulip",
-      "url": ""
+      "name": "Redmi Note 6 Pro (tulip)",
+      "url": "https://t.me/agnikerneltulipchannel"
+    },
+    {
+      "name": "Redmi Note 7 (lavender)",
+      "url": "https://t.me/agnikernelWayneJasmineLavenderch"
+    },
+    {
+      "name": "MI A2 (jasmine_sprout)",
+      "url": "https://t.me/agnikernelWayneJasmineLavenderch"
+    },
+    {
+      "name": "MI 6x (wayne)",
+      "url": "https://t.me/agnikernelWayneJasmineLavenderch"
     }
   ],
   "donate": [
