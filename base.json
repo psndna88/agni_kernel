@@ -5,7 +5,7 @@
     {
       "title": "General",
       "data": [
-        "Built with GCC 10.2 on Ubuntu 20.04 x64 AMD Ryzen 5 lenovo system.",
+        "Built with Snapdragon LLVM Clang on Windows 11 Pro x64 WSL2+WSLg on AMD Ryzen 5 Lenovo system.",
         "Enhanced compiler optimizations with device and target flags, build improvements, etc.",
         "Removed a ton of debug and logging to improve performance .",
         "ARM64 enhanced performance and battery patches.",
@@ -72,40 +72,43 @@
   ],
   "credits": [
     {
-      "name": "Alex Suprun",
-      "role": "Founder",
-      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+      "name": "psndna88",
+      "role": "Founder/Developer",
+      "avatar": "https://github.com/psndna88/agni_kernel/raw/site_data/credits_avatars/agni.png",
       "links": [
         {
           "type": "github",
-          "url": "https://www.github.com"
+          "url": "https://www.github.com/psndna88"
         },
         {
-          "type": "facebook",
-          "url": "https://www.github.com"
-        },
-        {
-          "type": "twitter",
-          "url": "https://www.github.com"
+          "type": "telegram",
+          "url": "https://t.me/psndna881"
         }
       ]
     },
     {
-      "name": "Nature",
-      "role": "Energy",
-      "avatar": "https://images.unsplash.com/photo-1551008475-4533d141425b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
+      "name": "nameless",
+      "role": "GFX Artist",
+      "avatar": "https://github.com/psndna88/agni_kernel/raw/site_data/credits_avatars/nameless.jpg",
+      "links": [
+        {
+          "type": "telegram",
+          "url": "https://t.me/Nameless_Hacker_is_back"
+        }
+      ]
+    },
+    {
+      "name": "epicX67",
+      "role": "Site Creator",
+      "avatar": "https://github.com/psndna88/agni_kernel/raw/site_data/credits_avatars/epicX67.jpg",
       "links": [
         {
           "type": "github",
-          "url": "https://www.github.com"
+          "url": "https://github.com/Xperiement"
         },
         {
-          "type": "facebook",
-          "url": "https://www.github.com"
-        },
-        {
-          "type": "twitter",
-          "url": "https://www.github.com"
+          "type": "telegram",
+          "url": "https://t.me/epicX67"
         }
       ]
     }
@@ -138,12 +141,12 @@
   ],
   "donate": [
     {
-      "name": "Github Sponsors",
-      "url": ""
+      "name": "Paypal",
+      "url": "https://paypal.me/psndna88"
     },
     {
-      "name": "Paypal",
-      "url": ""
+      "name": "Github Sponsors",
+      "url": "Work In Progress"
     }
   ]
 }
