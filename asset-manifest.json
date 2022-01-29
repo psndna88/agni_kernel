@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/agni_kernel/static/css/main.2fe5df67.chunk.css",
+    "main.css": "/agni_kernel/static/css/main.46b9a228.chunk.css",
     "main.js": "/agni_kernel/static/js/main.61493915.chunk.js",
     "main.js.map": "/agni_kernel/static/js/main.61493915.chunk.js.map",
     "runtime-main.js": "/agni_kernel/static/js/runtime-main.e6c52321.js",
@@ -12,7 +12,7 @@
     "service-worker.js": "/agni_kernel/service-worker.js",
     "service-worker.js.map": "/agni_kernel/service-worker.js.map",
     "static/css/2.334d61b5.chunk.css.map": "/agni_kernel/static/css/2.334d61b5.chunk.css.map",
-    "static/css/main.2fe5df67.chunk.css.map": "/agni_kernel/static/css/main.2fe5df67.chunk.css.map",
+    "static/css/main.46b9a228.chunk.css.map": "/agni_kernel/static/css/main.46b9a228.chunk.css.map",
     "static/js/2.0cdf8601.chunk.js.LICENSE.txt": "/agni_kernel/static/js/2.0cdf8601.chunk.js.LICENSE.txt",
     "static/media/agni.b11e4e2f.webp": "/agni_kernel/static/media/agni.b11e4e2f.webp",
     "static/media/device.72432646.webp": "/agni_kernel/static/media/device.72432646.webp",
@@ -23,7 +23,7 @@
     "static/js/runtime-main.e6c52321.js",
     "static/css/2.334d61b5.chunk.css",
     "static/js/2.0cdf8601.chunk.js",
-    "static/css/main.2fe5df67.chunk.css",
+    "static/css/main.46b9a228.chunk.css",
     "static/js/main.61493915.chunk.js"
   ]
 }
