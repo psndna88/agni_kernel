@@ -1,5 +1,41 @@
 [
   {
+    "name": "MI 11x Pro/K40",
+    "code_name": "haydn,haydn_in",
+    "oem": "Xiaomi",
+    "resources": [
+      {
+        "type": "kernel",
+        "title": "v1.0_beta-3",
+        "size": "25MB",
+        "url": "https://t.me/agnihaydn/43",
+        "md5": "MIUI R, AOSP R(soon), AOSP S(soon)",
+        "changelogs": [
+          "Under Beta Phase. Proper changelogs will be updated soon",
+          "AOSP R & S variants will be provided soon",
+          "Note: MI Turbo Charge does not work in MIUI thanks to Xiaomi's incomplete sources"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Poco X3 Pro",
+    "code_name": "bhima,vayu",
+    "oem": "Xiaomi",
+    "resources": [
+      {
+        "type": "kernel",
+        "title": "v1.0_beta-13",
+        "size": "21MB",
+        "url": "https://t.me/AGNi_KERNEL_POCOX3PRO/1620",
+        "md5": "unified MIUI R/AOSP RS",
+        "changelogs": [
+          "Under Beta Phase. Proper changelogs will be updated soon"
+        ]
+      }
+    ]
+  },
+  {
     "name": "Redmi Note 9 Snapdragon Series + Poco M2 Pro [Miatoll]",
     "code_name": "curtana,joyeuse,excalibur,gram",
     "oem": "Xiaomi",
