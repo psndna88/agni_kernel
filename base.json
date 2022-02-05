@@ -115,6 +115,10 @@
   ],
   "support_groups": [
     {
+      "name": "AGNi for all Debian based linux [x86-64]",
+      "url": "https://github.com/psndna88/AGNi-xanmod_x86-64"
+    },
+    {
       "name": "MI 11x Pro/K40 (haydn,haydn_in) [lahaina]",
       "url": "https://t.me/agnihaydn"
     },
@@ -123,7 +127,11 @@
       "url": "https://t.me/AGNi_KERNEL_POCOX3PRO"
     },
     {
-      "name": "Redmi Note 9 Snapdragon Series(curtana,joyeuse,excalibur) + Poco M2 Pro(gram) [miatoll]",
+      "name": "Redmi Note 9 Series (curtana,joyeuse,excalibur) [miatoll]",
+      "url": "https://t.me/agniMIATOLLgroup"
+    },
+    {
+      "name": "Poco M2 Pro (gram) [miatoll]",
       "url": "https://t.me/agniMIATOLLgroup"
     },
     {

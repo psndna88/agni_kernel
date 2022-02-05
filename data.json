@@ -1,5 +1,27 @@
 [
   {
+    "name": "AGNi for all Debian based linux",
+    "code_name": "x86-64",
+    "oem": "All PC/laptop",
+    "resources": [
+      {
+        "type": "kernel",
+        "title": "v1.0",
+        "size": "75MB",
+        "url": "https://github.com/psndna88/AGNi-xanmod_x86-64/releases",
+        "md5": "5.15(generic/amd-zen2), 5.16(generic/amd-zen2)",
+        "changelogs": [
+          "Initial release (any debian based linux including ubuntu)",
+          "Forked from xanmod.org",
+          "Merge Linux 5.15.19 & 5.16.5",
+          "scripts: force deb installer compression to xz",
+          "acpi: disable some Insyde BIOS related ERROR log",
+          "Using High responsiveness multitasking Task Type scheduler"
+        ]
+      }
+    ]
+  },
+  {
     "name": "MI 11x Pro/K40",
     "code_name": "haydn,haydn_in",
     "oem": "Xiaomi",
@@ -36,8 +58,29 @@
     ]
   },
   {
-    "name": "Redmi Note 9 Snapdragon Series + Poco M2 Pro [Miatoll]",
-    "code_name": "curtana,joyeuse,excalibur,gram",
+    "name": "Redmi Note 9 Snapdragon Series [miatoll]",
+    "code_name": "curtana,joyeuse,excalibur",
+    "oem": "Xiaomi",
+    "resources": [
+      {
+        "type": "kernel",
+        "title": "v12.5",
+        "size": "18-20MB",
+        "url": "https://store.kde.org/p/1450364/",
+        "md5": "MIUI R, MIUI Q, AOSP RS, AOSP Q, AOSP R0, AOSP RS-permissive, AOSP RS-nethunter",
+        "changelogs": [
+          "Merge kernel 4.14.263",
+          "Merge CAF LA.UM.9.1.r1-11500.02-SMxxx0.QSSI12.0 (MIUI R/AOSP RS)",
+          "mm: hardwire force page_cluster = 1 for zram",
+          "nfc: nq-nci: disable nqx_suspend & nqx_resume",
+          "Merge MIUI specific Xiaomi's hidden code from evergo-r-oss (MIUI R) *Zram Memory extension * f2fs"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Poco M2 Pro [miatoll]",
+    "code_name": "gram",
     "oem": "Xiaomi",
     "resources": [
       {
