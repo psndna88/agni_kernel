@@ -6,14 +6,14 @@
     "resources": [
       {
         "type": "kernel",
-        "title": "v1.0",
+        "title": "v1.1",
         "size": "75MB",
         "url": "https://github.com/psndna88/AGNi-xanmod_x86-64/releases",
         "md5": "5.15(generic/amd-zen2), 5.16(generic/amd-zen2)",
         "changelogs": [
           "Initial release (any debian based linux including ubuntu)",
           "Forked from xanmod.org",
-          "Merge Linux 5.15.19 & 5.16.5",
+          "Merge Linux 5.15.19 & 5.16.8",
           "scripts: force deb installer compression to xz",
           "acpi: disable some Insyde BIOS related ERROR log",
           "Using High responsiveness multitasking Task Type scheduler"
@@ -47,7 +47,7 @@
     "resources": [
       {
         "type": "kernel",
-        "title": "v1.0_beta-13",
+        "title": "v1.0_beta-14",
         "size": "21MB",
         "url": "https://t.me/AGNi_KERNEL_POCOX3PRO/1620",
         "md5": "unified MIUI R/AOSP RS",
@@ -64,16 +64,14 @@
     "resources": [
       {
         "type": "kernel",
-        "title": "v12.5",
+        "title": "v12.7",
         "size": "18-20MB",
         "url": "https://store.kde.org/p/1450364/",
         "md5": "MIUI R, MIUI Q, AOSP RS, AOSP Q, AOSP R0, AOSP RS-permissive, AOSP RS-nethunter",
         "changelogs": [
-          "Merge kernel 4.14.263",
-          "Merge CAF LA.UM.9.1.r1-11500.02-SMxxx0.QSSI12.0 (MIUI R/AOSP RS)",
-          "mm: hardwire force page_cluster = 1 for zram",
-          "nfc: nq-nci: disable nqx_suspend & nqx_resume",
-          "Merge MIUI specific Xiaomi's hidden code from evergo-r-oss (MIUI R) *Zram Memory extension * f2fs"
+          "Merge kernel 4.14.266",
+          "scsi: ufs: some reverts (MIUI R/AOSP RS)",
+          "config: enable SWAP_ENABLE_READAHEAD, BALANCE_ANON_FILE_RECLAIM & BLK_WBT"
         ]
       }
     ]
@@ -85,16 +83,14 @@
     "resources": [
       {
         "type": "kernel",
-        "title": "v12.5",
+        "title": "v12.7",
         "size": "18-20MB",
         "url": "https://store.kde.org/p/1450364/",
         "md5": "MIUI R, MIUI Q, AOSP RS, AOSP Q, AOSP R0, AOSP RS-permissive, AOSP RS-nethunter",
         "changelogs": [
-          "Merge kernel 4.14.263",
-          "Merge CAF LA.UM.9.1.r1-11500.02-SMxxx0.QSSI12.0 (MIUI R/AOSP RS)",
-          "mm: hardwire force page_cluster = 1 for zram",
-          "nfc: nq-nci: disable nqx_suspend & nqx_resume",
-          "Merge MIUI specific Xiaomi's hidden code from evergo-r-oss (MIUI R) *Zram Memory extension * f2fs"
+          "Merge kernel 4.14.266",
+          "scsi: ufs: some reverts (MIUI R/AOSP RS)",
+          "config: enable SWAP_ENABLE_READAHEAD, BALANCE_ANON_FILE_RECLAIM & BLK_WBT"
         ]
       }
     ]
