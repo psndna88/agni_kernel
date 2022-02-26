@@ -9,14 +9,15 @@
         "title": "v1.1",
         "size": "75MB",
         "url": "https://github.com/psndna88/AGNi-xanmod_x86-64/releases",
-        "md5": "5.15(generic/amd-zen2), 5.16(generic/amd-zen2)",
+        "md5": "5.16(generic), customized cpu optimization on request",
         "changelogs": [
-          "Initial release (any debian based linux including ubuntu)",
           "Forked from xanmod.org",
-          "Merge Linux 5.15.19 & 5.16.8",
+          "Merge Linux 5.16.11",
           "scripts: force deb installer compression to xz",
           "acpi: disable some Insyde BIOS related ERROR log",
-          "Using High responsiveness multitasking Task Type scheduler"
+          "Using High responsiveness multitasking Task Type scheduler",
+          "ath10k: fix slow wifi speeds (tested on Qualcomm QCA9377)",
+          "net: ipv4: autoenable TCP_NODELAY to disable NAGLE's Algorithm"
         ]
       }
     ]
@@ -64,14 +65,24 @@
     "resources": [
       {
         "type": "kernel",
-        "title": "v12.7",
+        "title": "v12.8",
         "size": "18-20MB",
         "url": "https://store.kde.org/p/1450364/",
-        "md5": "MIUI R, MIUI Q, AOSP RS, AOSP Q, AOSP R0, AOSP RS-permissive, AOSP RS-nethunter",
+        "md5": "MIUI RS, MIUI Q, AOSP RS, AOSP Q, AOSP R0, AOSP RS-permissive, AOSP RS-nethunter",
         "changelogs": [
-          "Merge kernel 4.14.266",
-          "scsi: ufs: some reverts (MIUI R/AOSP RS)",
-          "config: enable SWAP_ENABLE_READAHEAD, BALANCE_ANON_FILE_RECLAIM & BLK_WBT"
+          "Merge kernel 4.14.267, 4.14.268",
+          "scsi: ufs: disable all low power modes",
+          "net: ipv4: autoenable TCP_NODELAY to disable NAGLE's Algorithm",
+          "adc: ignore when adc voltage reading zero (MIUI R/S)",
+          "thermal: lmh_dcvs: Correct limits initial value (MIUI R/S)",
+          "thermal: core: Use high value to init low temp tracking thermal_zone (MIUI R/S)",
+          "thermal: make thermal_cooling_device_register accepts const string (MIUI R/S)",
+          "thermal: adc-tm: implement emul_temp function (MIUI R/S)",
+          "thermal: core: skip update disabled thermal zones after suspend (MIUI R/S)",
+          "thermal: Skip thermal sensor update if emul temp set (MIUI R/S)",
+          "thermal: Ignore spurious BCL interrupts whenever BCL is in polling (MIUI R/S)",
+          "thermal: create tz and cdev softlink in thermal class (MIUI R/S)",
+          "thermal: Create softlink by name for thermal_zone and cooling device (MIUI R/S)"
         ]
       }
     ]
@@ -83,14 +94,24 @@
     "resources": [
       {
         "type": "kernel",
-        "title": "v12.7",
+        "title": "v12.8",
         "size": "18-20MB",
         "url": "https://store.kde.org/p/1450364/",
-        "md5": "MIUI R, MIUI Q, AOSP RS, AOSP Q, AOSP R0, AOSP RS-permissive, AOSP RS-nethunter",
+        "md5": "MIUI RS, MIUI Q, AOSP RS, AOSP Q, AOSP R0, AOSP RS-permissive, AOSP RS-nethunter",
         "changelogs": [
-          "Merge kernel 4.14.266",
-          "scsi: ufs: some reverts (MIUI R/AOSP RS)",
-          "config: enable SWAP_ENABLE_READAHEAD, BALANCE_ANON_FILE_RECLAIM & BLK_WBT"
+          "Merge kernel 4.14.267, 4.14.268",
+          "scsi: ufs: disable all low power modes",
+          "net: ipv4: autoenable TCP_NODELAY to disable NAGLE's Algorithm",
+          "adc: ignore when adc voltage reading zero (MIUI R/S)",
+          "thermal: lmh_dcvs: Correct limits initial value (MIUI R/S)",
+          "thermal: core: Use high value to init low temp tracking thermal_zone (MIUI R/S)",
+          "thermal: make thermal_cooling_device_register accepts const string (MIUI R/S)",
+          "thermal: adc-tm: implement emul_temp function (MIUI R/S)",
+          "thermal: core: skip update disabled thermal zones after suspend (MIUI R/S)",
+          "thermal: Skip thermal sensor update if emul temp set (MIUI R/S)",
+          "thermal: Ignore spurious BCL interrupts whenever BCL is in polling (MIUI R/S)",
+          "thermal: create tz and cdev softlink in thermal class (MIUI R/S)",
+          "thermal: Create softlink by name for thermal_zone and cooling device (MIUI R/S)"
         ]
       }
     ]
