@@ -65,24 +65,14 @@
     "resources": [
       {
         "type": "kernel",
-        "title": "v12.8",
+        "title": "v12.9",
         "size": "18-20MB",
         "url": "https://store.kde.org/p/1450364/",
         "md5": "MIUI RS, MIUI Q, AOSP RS, AOSP Q, AOSP R0, AOSP RS-permissive, AOSP RS-nethunter",
         "changelogs": [
-          "Merge kernel 4.14.267, 4.14.268",
-          "scsi: ufs: disable all low power modes",
-          "net: ipv4: autoenable TCP_NODELAY to disable NAGLE's Algorithm",
-          "adc: ignore when adc voltage reading zero (MIUI R/S)",
-          "thermal: lmh_dcvs: Correct limits initial value (MIUI R/S)",
-          "thermal: core: Use high value to init low temp tracking thermal_zone (MIUI R/S)",
-          "thermal: make thermal_cooling_device_register accepts const string (MIUI R/S)",
-          "thermal: adc-tm: implement emul_temp function (MIUI R/S)",
-          "thermal: core: skip update disabled thermal zones after suspend (MIUI R/S)",
-          "thermal: Skip thermal sensor update if emul temp set (MIUI R/S)",
-          "thermal: Ignore spurious BCL interrupts whenever BCL is in polling (MIUI R/S)",
-          "thermal: create tz and cdev softlink in thermal class (MIUI R/S)",
-          "thermal: Create softlink by name for thermal_zone and cooling device (MIUI R/S)"
+          "Merge kernel 4.14.269, 4.14.270, 4.14.271",
+          "techpack: audio: Merge CAF LA.UM.9.1.r1-11700-SMxxx0.0 (MIUI/AOSP RS)",
+          "Merge CAF LA.UM.9.1.r1-11700-SMxxx0.0 (MIUI/AOSP RS)"
         ]
       }
     ]
@@ -94,24 +84,14 @@
     "resources": [
       {
         "type": "kernel",
-        "title": "v12.8",
+        "title": "v12.9",
         "size": "18-20MB",
         "url": "https://store.kde.org/p/1450364/",
         "md5": "MIUI RS, MIUI Q, AOSP RS, AOSP Q, AOSP R0, AOSP RS-permissive, AOSP RS-nethunter",
         "changelogs": [
-          "Merge kernel 4.14.267, 4.14.268",
-          "scsi: ufs: disable all low power modes",
-          "net: ipv4: autoenable TCP_NODELAY to disable NAGLE's Algorithm",
-          "adc: ignore when adc voltage reading zero (MIUI R/S)",
-          "thermal: lmh_dcvs: Correct limits initial value (MIUI R/S)",
-          "thermal: core: Use high value to init low temp tracking thermal_zone (MIUI R/S)",
-          "thermal: make thermal_cooling_device_register accepts const string (MIUI R/S)",
-          "thermal: adc-tm: implement emul_temp function (MIUI R/S)",
-          "thermal: core: skip update disabled thermal zones after suspend (MIUI R/S)",
-          "thermal: Skip thermal sensor update if emul temp set (MIUI R/S)",
-          "thermal: Ignore spurious BCL interrupts whenever BCL is in polling (MIUI R/S)",
-          "thermal: create tz and cdev softlink in thermal class (MIUI R/S)",
-          "thermal: Create softlink by name for thermal_zone and cooling device (MIUI R/S)"
+          "Merge kernel 4.14.269, 4.14.270, 4.14.271",
+          "techpack: audio: Merge CAF LA.UM.9.1.r1-11700-SMxxx0.0 (MIUI/AOSP RS)",
+          "Merge CAF LA.UM.9.1.r1-11700-SMxxx0.0 (MIUI/AOSP RS)"
         ]
       }
     ]
