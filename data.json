@@ -6,13 +6,13 @@
     "resources": [
       {
         "type": "kernel",
-        "title": "v1.1",
+        "title": "v1.4",
         "size": "75MB",
         "url": "https://github.com/psndna88/AGNi-xanmod_x86-64/releases",
-        "md5": "5.16(generic), customized cpu optimization on request",
+        "md5": "5.17(generic), customized cpu optimization on request",
         "changelogs": [
           "Forked from xanmod.org",
-          "Merge Linux 5.16.11",
+          "Merge Linux 5.17.3",
           "scripts: force deb installer compression to xz",
           "acpi: disable some Insyde BIOS related ERROR log",
           "Using High responsiveness multitasking Task Type scheduler",
