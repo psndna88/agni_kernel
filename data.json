@@ -9,15 +9,16 @@
         "title": "v1.4",
         "size": "75MB",
         "url": "https://github.com/psndna88/AGNi-xanmod_x86-64/releases",
-        "md5": "5.17(generic), customized cpu optimization on request",
+        "md5": "5.17, customized cpu optimization available",
         "changelogs": [
           "Forked from xanmod.org",
-          "Merge Linux 5.17.3",
+          "Merge Linux 5.17.9",
           "scripts: force deb installer compression to xz",
           "acpi: disable some Insyde BIOS related ERROR log",
           "Using High responsiveness multitasking Task Type scheduler",
           "ath10k: fix slow wifi speeds (tested on Qualcomm QCA9377)",
-          "net: ipv4: autoenable TCP_NODELAY to disable NAGLE's Algorithm"
+          "net: ipv4: autoenable TCP_NODELAY to disable NAGLE's Algorithm",
+          "Using OEM drivers by Realtek known to have far better performance"
         ]
       }
     ]
@@ -65,14 +66,15 @@
     "resources": [
       {
         "type": "kernel",
-        "title": "v12.9",
+        "title": "v13.4",
         "size": "18-20MB",
-        "url": "https://store.kde.org/p/1450364/",
+        "url": "https://store.kde.org/p/1765134/",
         "md5": "MIUI RS, MIUI Q, AOSP RS, AOSP Q, AOSP R0, AOSP RS-permissive, AOSP RS-nethunter",
         "changelogs": [
-          "Merge kernel 4.14.269, 4.14.270, 4.14.271",
-          "techpack: audio: Merge CAF LA.UM.9.1.r1-11700-SMxxx0.0 (MIUI/AOSP RS)",
-          "Merge CAF LA.UM.9.1.r1-11700-SMxxx0.0 (MIUI/AOSP RS)"
+          "Merge kernel 4.14.278, 4.14.279, 4.14.280",
+          "Merge CAF LA.UM.9.1.r1-11900-SMxxx0.0 (MIUI/AOSP RS)",
+          "Merge wifi CAF LA.UM.9.1.r1-11900-SMxxx0 (MIUI/AOSP RS)",
+          "Disable AGNi Support & WiFi Tuning Module by default"
         ]
       }
     ]
